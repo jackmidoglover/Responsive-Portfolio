@@ -232,7 +232,7 @@ main {
 
 .logo {
     position: relative;
-    left: 4px;
+    left:-12px;
     top: -12px;
 }
 
@@ -248,10 +248,10 @@ nav {
 @media screen and (max-width: 640px) {
 
 .logo {
-    width: 105%;
+    width: 108%;
     clear: both;
     position: relative;
-    left: -12px;
+    left: -13px;
     top: -12px;
     padding: 20px 5px;
 }
@@ -261,7 +261,7 @@ nav {
     float: none;
     position: relative;
     top: -16px;
-    left: 187px;
+    left: 53px;
 }
 
 header {
