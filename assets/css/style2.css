@@ -69,6 +69,11 @@ textarea:focus {
     background-size: cover;
 }
 
+#f {
+    background-image: url("../images/brbicon.png");
+    background-size: cover;
+}
+
 /* Image Banners */
 h3 {
     width: 265px;
